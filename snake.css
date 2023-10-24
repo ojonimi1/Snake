@@ -1,0 +1,25 @@
+body{
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     text-align: center;
+}
+
+canvas {
+     border: 5px solid gold;
+     display: block;
+     margin: 0 auto;
+     background-color: black;
+   }
+
+.text{
+     text-align: center;
+}
+
+.Button-style{
+     background-color: gold;
+     color: black;
+     border: none;
+     padding: 10px;
+     font-weight: bold;
+     border-radius: 40px;
+
+}
